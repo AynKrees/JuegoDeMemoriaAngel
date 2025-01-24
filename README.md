@@ -1,6 +1,6 @@
 Juego de Memoria en Pygame
 
-Este código es un juego de memoria en Pygame donde el jugador debe encontrar los pares de cartas con símbolos coincidentes. 
+Este código es un juego de memoria en Pygame donde el jugador debe encontrar los pares de numeros iguales. 
 El juego comienza con una pantalla inicial que ofrece al jugador la opción de empezar o salir. 
 Al elegir "Sí", se muestran las cartas brevemente durante 5 segundos para que el jugador pueda memorizarlas. 
 Las cartas se generan aleatoriamente con símbolos emparejados y se distribuyen en un tablero de 4x4. 
